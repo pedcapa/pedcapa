@@ -1,4 +1,4 @@
-[![@pedcapa's background](https://github.com/pedcapa/pedcapa/blob/main/assets/portada.JPG)](https://github.com/pedcapa/pedcapa/blob/main/assets/portada.JPG)
+[![@pedcapa's background](https://github.com/pedcapa/pedcapa/blob/main/assets/background.JPG)](https://github.com/pedcapa/pedcapa/blob/main/assets/background.JPG)
 
 <h2>About me </h2>
 
@@ -32,11 +32,13 @@
 - 🛠️ Passionate about optimizing processes and building impactful tech solutions.
 
 ## My Projects:
+
 - [AutoGPT API](https://github.com/pedcapa/autogpt-api) - An API enabling interaction with multiple language models.
 - [Mosaic API](https://github.com/pedcapa/mosaic-api) - An API for personalized learning for individuals with intellectual disabilities.
 - [Lifx Lights Sentiment](https://github.com/pedcapa/lifx-lights-openai) - Adjusts Lifx lights based on news sentiment.
 
 ## #30NitesOfCode:
+
 [Check out my pet!](https://www.codedex.io/@pedcapa/30-nites-of-code?pet=Zg9hCrY5CCwTxJA8VHQm)
 
 <img src="https://www.codedex.io/images/code-nights/dragon.gif" alt="@pedcapa #30NitesOfCode" width="200"/>
