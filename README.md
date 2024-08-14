@@ -3,7 +3,7 @@
 <h2>About me </h2>
 
 <div >
-  <img src="https://github.com/pedcapa/pedcapa/blob/main/assets/pedro.jpeg" align="right" width="300">
+  <img src="https://github.com/pedcapa/pedcapa/blob/main/assets/pedro.jpeg" align="right" width="200">
 
 <ul>
   <li><b>👤 Name: </b> Pedro Castañeda</li>
