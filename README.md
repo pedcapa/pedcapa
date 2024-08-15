@@ -38,7 +38,5 @@
 - [Lifx Lights Sentiment](https://github.com/pedcapa/lifx-lights-openai) - Adjusts Lifx lights based on news sentiment.
 
 ## #30NitesOfCode:
-
-[Check out my pet!](https://www.codedex.io/@pedcapa/30-nites-of-code?pet=Zg9hCrY5CCwTxJA8VHQm)
-
-<img src="https://www.codedex.io/images/code-nights/dragon.gif" alt="@pedcapa #30NitesOfCode" width="200"/>
+  [Check out my progress!](https://www.codedex.io/@pedcapa/30-nites-of-code)  
+  ![@pedcapa #30NitesOfCode](https://www.codedex.io/api/petStatus?user=pedcapa)
