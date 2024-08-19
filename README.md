@@ -29,7 +29,7 @@
 <h2>Random</h2>
 
 - 🥇 HackPue 2024 Winner with the Mosaic app.
-- 🛠️ Passionate about optimizing processes and building impactful tech solutions.
+- 😼 Looking for an internship.
 
 ## My Projects:
 
